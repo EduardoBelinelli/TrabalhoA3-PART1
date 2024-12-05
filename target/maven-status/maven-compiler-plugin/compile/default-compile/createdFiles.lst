@@ -1,0 +1,16 @@
+com\loja\loja_produtos\models\Cliente.class
+com\loja\loja_produtos\models\CompraProduto.class
+com\loja\loja_produtos\config\OpenApiConfig.class
+com\loja\loja_produtos\controllers\CompraController.class
+com\loja\loja_produtos\repositories\CompraRepository.class
+com\loja\loja_produtos\models\Compra.class
+com\loja\loja_produtos\repositories\VendedorRepository.class
+com\loja\loja_produtos\models\Produto.class
+com\loja\loja_produtos\models\Vendedor.class
+com\loja\loja_produtos\repositories\ProdutoRepository.class
+com\loja\loja_produtos\controllers\ClienteController.class
+com\loja\loja_produtos\controllers\VendedorController.class
+com\loja\loja_produtos\repositories\ClienteRepository.class
+com\loja\loja_produtos\dtos\CompraDTO.class
+com\loja\loja_produtos\LojaProdutosApplication.class
+com\loja\loja_produtos\controllers\ProdutoController.class

@@ -1,0 +1,16 @@
+C:\Users\eduar\Desktop\A3\TrabalhoA3\src\main\java\com\loja\loja_produtos\config\OpenApiConfig.java
+C:\Users\eduar\Desktop\A3\TrabalhoA3\src\main\java\com\loja\loja_produtos\controllers\ClienteController.java
+C:\Users\eduar\Desktop\A3\TrabalhoA3\src\main\java\com\loja\loja_produtos\controllers\CompraController.java
+C:\Users\eduar\Desktop\A3\TrabalhoA3\src\main\java\com\loja\loja_produtos\controllers\ProdutoController.java
+C:\Users\eduar\Desktop\A3\TrabalhoA3\src\main\java\com\loja\loja_produtos\controllers\VendedorController.java
+C:\Users\eduar\Desktop\A3\TrabalhoA3\src\main\java\com\loja\loja_produtos\dtos\CompraDTO.java
+C:\Users\eduar\Desktop\A3\TrabalhoA3\src\main\java\com\loja\loja_produtos\LojaProdutosApplication.java
+C:\Users\eduar\Desktop\A3\TrabalhoA3\src\main\java\com\loja\loja_produtos\models\Cliente.java
+C:\Users\eduar\Desktop\A3\TrabalhoA3\src\main\java\com\loja\loja_produtos\models\Compra.java
+C:\Users\eduar\Desktop\A3\TrabalhoA3\src\main\java\com\loja\loja_produtos\models\CompraProduto.java
+C:\Users\eduar\Desktop\A3\TrabalhoA3\src\main\java\com\loja\loja_produtos\models\Produto.java
+C:\Users\eduar\Desktop\A3\TrabalhoA3\src\main\java\com\loja\loja_produtos\models\Vendedor.java
+C:\Users\eduar\Desktop\A3\TrabalhoA3\src\main\java\com\loja\loja_produtos\repositories\ClienteRepository.java
+C:\Users\eduar\Desktop\A3\TrabalhoA3\src\main\java\com\loja\loja_produtos\repositories\CompraRepository.java
+C:\Users\eduar\Desktop\A3\TrabalhoA3\src\main\java\com\loja\loja_produtos\repositories\ProdutoRepository.java
+C:\Users\eduar\Desktop\A3\TrabalhoA3\src\main\java\com\loja\loja_produtos\repositories\VendedorRepository.java
